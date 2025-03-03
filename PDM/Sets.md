@@ -43,7 +43,7 @@ De Morgan's laws are a pair of transformation rules in logic and set theory. The
     * Proof: <br>
     $\lbrace x:x \in \overline{A \cup B}\rbrace$ <br>
     $=\lbrace x:x \notin (A \cup B)\rbrace $<br>
-    $=\lbrace x:x \notin A \land x \notin B\rbrace $ <br>
+    $=\lbrace x:x \notin A \land x \notin B\rbrace $<br>
     $=\lbrace x:x \in \overline{A} \land x \in \overline{B}\rbrace $<br>
     $=\lbrace x:x \in (\overline{A}  \cap \overline{B})\rbrace $
 
@@ -54,7 +54,7 @@ De Morgan's laws are a pair of transformation rules in logic and set theory. The
 
     $\lbrace x:x \in \overline{A \cap B}\rbrace$ <br>
     $=\lbrace x:x \notin (A \cap B)\rbrace $<br>
-    $=\lbrace x:x \notin A \lor x \notin B\rbrace $ <br>
+    $=\lbrace x:x \notin A \lor x \notin B\rbrace $<br>
     $=\lbrace x:x \in \overline{A} \lor x \in \overline{B}\rbrace $<br>
     $=\lbrace x:x \in (\overline{A}  \cup \overline{B})\rbrace $
 
