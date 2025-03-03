@@ -14,7 +14,9 @@ In mathematics, the Cartesian product of two sets is a fundamental operation tha
 
 **Example:**
 
-* Let $A = \lbrace 1, 2\rbrace $ and $B = \lbrace x, y, z\rbrace $.
+* Let 
+$$A = \lbrace 1, 2 \rbrace$$
+$$B = \lbrace x, y, z\rbrace $$
 * Then, $A × B = \lbrace (1, x), (1, y), (1, z), (2, x), (2, y), (2, z)\rbrace $.
 
 **Important Points:**
