@@ -43,8 +43,8 @@ De Morgan's laws are a pair of transformation rules in logic and set theory. The
     * Proof: <br>
     ${\{x:x \in \overline{A \cup B}\}}$ <br>
     $={\{x:x \notin (A \cup B)}\}$<br>
-    $={\{x:x \notin A \,\, and \,\, x \notin B}\}$ <br>
-    $={\{x:x \in \overline{A} \,\, and \,\, x \in \overline{B}}\}$<br>
+    $={\{x:x \notin A~\, and~\, x \notin B}\}$ <br>
+    $={\{x:x \in \overline{A}~\, and~\, x \in \overline{B}}\}$<br>
     $={\{x:x \in (\overline{A}  \cap \overline{B}})\}$
 
 * **2nd Law:**
@@ -53,8 +53,8 @@ De Morgan's laws are a pair of transformation rules in logic and set theory. The
     * Proof: <br>
     ${\{x:x \in \overline{A \cap B}\}}$ <br>
     $={\{x:x \notin (A \cap B)}\}$<br>
-    $={\{x:x \notin A \,\, or \,\, x \notin B}\}$ <br>
-    $={\{x:x \in \overline{A} \,\, or \,\, x \in \overline{B}}\}$<br>
+    $={\{x:x \notin A~\, or~\, x \notin B}\}$ <br>
+    $={\{x:x \in \overline{A}~\, or~\, x \in \overline{B}}\}$<br>
     $={\{x:x \in (\overline{A}  \cup \overline{B}})\}$
 
 **Essentially, De Morgan's laws:**
