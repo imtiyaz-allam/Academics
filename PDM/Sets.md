@@ -52,12 +52,11 @@ De Morgan's laws are a pair of transformation rules in logic and set theory. The
     * Symbolically: $\overline{A ∩ B} = \overline A ∪ \overline B$
     * Proof: <br>
 
-    $\lbrace x:x \in \overline{A \cap B}\rbrace $ <br>
-    
-    $= \lbrace x:x \notin (A \cap B)\rbrace $<br>
-    $= \lbrace x:x \notin A ~ or ~ x \notin B \rbrace $ <br>
-    $= \lbrace x:x \in \overline{A}~\, or~\, x \in \overline{B} \rbrace $<br>
-    $= \lbrace x:x \in (\overline{A}  \cup \overline{B}) \rbrace $
+    $\lbrace x:x \in \overline{A \cap B}\rbrace$ <br>
+    $=\lbrace x:x \notin (A \cap B)\rbrace $<br>
+    $=\lbrace x:x \notin A ~ or ~ x \notin B\rbrace $ <br>
+    $=\lbrace x:x \in \overline{A }~ or ~ x \in \overline{B}\rbrace $<br>
+    $=\lbrace x:x \in (\overline{A}  \cup \overline{B})\rbrace $
 
 **Essentially, De Morgan's laws:**
 
