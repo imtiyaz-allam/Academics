@@ -14,8 +14,8 @@ In mathematics, the Cartesian product of two sets is a fundamental operation tha
 
 **Example:**
 
-* Let $A = \{1, 2\}$ and $B = \{x, y, z\}$.
-* Then, $A × B = \{(1, x), (1, y), (1, z), (2, x), (2, y), (2, z)\}$.
+* Let $A = \lbrace 1, 2\rbrace $ and $B = \lbrace x, y, z\rbrace $.
+* Then, $A × B = \lbrace (1, x), (1, y), (1, z), (2, x), (2, y), (2, z)\rbrace $.
 
 **Important Points:**
 
@@ -56,45 +56,45 @@ In mathematics, a "relation" describes a connection or association between eleme
 ### 1. Reflexive relations:
 A relation $R$ on $A$ is called reflexive if $(a, a) \in R$ for all $a \in A$ <br>
 __Example__:<br> 
-> $A = \{1, 2, 3\}$<br>
-> $R = \{(1, 1), (2, 2), (1, 2),(2, 1),(3, 3)\}$
+> $A = \lbrace 1, 2, 3\rbrace $<br>
+> $R = \lbrace (1, 1), (2, 2), (1, 2),(2, 1),(3, 3)\rbrace $
 ### 2. Symmetric Relation
 A relation $R$ is said to be symmetric iff both $(a, b) \in R$ and $(b, a) \in R$ 
 __Example__: <br>
-> $A = \{1, 2, 3\}$<br>
-> $R = \{(1, 2), (2, 1), (3, 2), (2, 3)\}$
+> $A = \lbrace 1, 2, 3\rbrace $<br>
+> $R = \lbrace (1, 2), (2, 1), (3, 2), (2, 3)\rbrace $
 ### 3. Antisymmetric Relation
 A relation $R$ is said to be antisymmetric if $(a,b) \in R$ and $(b, a) \in R$ together implies $a = b$.<br>
 __Example__:
-> $A = \{1, 2, 3\}$<br>
-> $R = \{(1, 1), (2, 2), (3, 3), (1, 2)\}$
+> $A = \lbrace 1, 2, 3\rbrace $<br>
+> $R = \lbrace (1, 1), (2, 2), (3, 3), (1, 2)\rbrace $
 ### 4. Transitive Relation
 A relation $R$ on $A$ is transitive if $(a, b) \in R$ and $(b, c) \in R$
 then $(a, c) \in R$<br>
 __Example__:<br>
-> $A = \{1, 2, 3\}$<br>
-> $R = \{(1, 2), (2, 3), (1, 3)\}$
+> $A = \lbrace 1, 2, 3\rbrace $<br>
+> $R = \lbrace (1, 2), (2, 3), (1, 3)\rbrace $
 
 __Q)__ <br>
 <img src="RelationQ1.png" width=300 height=300><br>
-__Ans)__ $\{(A,B), (B, A), (A, D), (D, A), (A, C), (C, A), (B, C), (C, B), (D, C), (C, D)\}$
+__Ans)__ $\lbrace (A,B), (B, A), (A, D), (D, A), (A, C), (C, A), (B, C), (C, B), (D, C), (C, D)\rbrace $
 
 ### 5. Equivalence Relation:
 If a relation is symmetric, transitive and reflexive, then it is called equivalence relation.<br>
 __Example__:<br>
-> $A = \{1, 2, 3, 4\}$<br>
-> $R = \{(1, 1), (2, 2), (4, 4), (1, 3), (2, 1), (3, 3), (1, 2), (3, 1)\}$
+> $A = \lbrace 1, 2, 3, 4\rbrace $<br>
+> $R = \lbrace (1, 1), (2, 2), (4, 4), (1, 3), (2, 1), (3, 3), (1, 2), (3, 1)\rbrace $
 
 ### 6. Partial Order Relation:
 A relation which is reflexive, antisymmetric and transitive.<br>
 __Example__:<br>
-> $A = \{1, 2, 4, 8\}$<br>
-> $R = \{(a, b) \in A \times A | a ~ is ~ divisor ~ of ~ b\}$<br>
-> $\implies R = \{(1, 1), (1, 2), (1, 4), (1, 8), (2, 2), (2, 4), (2, 8), (4, 4), (4, 8)\}$
+> $A = \lbrace 1, 2, 4, 8\rbrace $<br>
+> $R = \lbrace (a, b) \in A \times A | a ~ is ~ divisor ~ of ~ b\rbrace $<br>
+> $\implies R = \lbrace (1, 1), (1, 2), (1, 4), (1, 8), (2, 2), (2, 4), (2, 8), (4, 4), (4, 8)\rbrace $
 
 ### 7. Total-order Relation
 A partial order relation is called total-order relation if every pair of elements are comparable.<br>
 
 __Example__:<br>
-> $A = \{1, 2, 3\}$<br>
-> $R = {(1, 1), (2, 2), (3, 3), (1, 2), (2, 3), (1, 3)}$
+> $A = \lbrace 1, 2, 3\rbrace $<br>
+> $R = \lbrace (1, 1), (2, 2), (3, 3), (1, 2), (2, 3), (1, 3)\rbrace$

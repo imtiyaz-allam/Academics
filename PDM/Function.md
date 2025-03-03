@@ -28,8 +28,8 @@ More formally, a function $f$ from a set $A$ to a set $B$, denoted as $f: A \to 
 
 Let's say we have:
 
-* Domain ($A$) = $\{1, 2, 3\}$
-* Codomain ($B$) = $\{A, B, C, D\}$
+* Domain ($A$) = $\lbrace 1, 2, 3\rbrace $
+* Codomain ($B$) = $\lbrace A, B, C, D\rbrace $
 * Function $f$:
     * $f(1) = D$
     * $f(2) = C$
@@ -37,9 +37,9 @@ Let's say we have:
 
 In this example:
 
-* The domain is $\{1, 2, 3\}$.
-* The codomain is $\{A, B, C, D\}$.
-* The range is $\{D, C\}$. Notice that $B$ and $A$ are in the codomain but not in the range because no element in the domain maps to them. Also notice that $a$ is in the range, even though it is the output of two domain inputs.
+* The domain is $\lbrace 1, 2, 3\rbrace $.
+* The codomain is $\lbrace A, B, C, D\rbrace $.
+* The range is $\lbrace D, C\rbrace $. Notice that $B$ and $A$ are in the codomain but not in the range because no element in the domain maps to them. Also notice that $a$ is in the range, even though it is the output of two domain inputs.
 <br>
 <img src="function.png">
 

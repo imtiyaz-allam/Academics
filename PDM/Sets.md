@@ -41,21 +41,21 @@ De Morgan's laws are a pair of transformation rules in logic and set theory. The
     * The complement of the union of two sets is equal to the intersection of their complements.
     * Symbolically: $\overline{A ∪ B} = \overline A ∩ \overline B$
     * Proof: <br>
-    ${\{x:x \in \overline{A \cup B}\}}$ <br>
-    $={\{x:x \notin (A \cup B)}\}$<br>
-    $={\{x:x \notin A~\, and~\, x \notin B}\}$ <br>
-    $={\{x:x \in \overline{A}~\, and~\, x \in \overline{B}}\}$<br>
-    $={\{x:x \in (\overline{A}  \cap \overline{B}})\}$
+    ${\lbrace x:x \in \overline{A \cup B}\rbrace }$ <br>
+    $={\lbrace x:x \notin (A \cup B)}\rbrace $<br>
+    $={\lbrace x:x \notin A~\, and~\, x \notin B}\rbrace $ <br>
+    $={\lbrace x:x \in \overline{A}~\, and~\, x \in \overline{B}}\rbrace $<br>
+    $={\lbrace x:x \in (\overline{A}  \cap \overline{B}})\rbrace $
 
 * **2nd Law:**
     * The complement of the intersection of two sets is equal to the union of their complements.
     * Symbolically: $\overline{A ∩ B} = \overline A ∪ \overline B$
     * Proof: <br>
-    ${\{x:x \in \overline{A \cap B}\}}$ <br>
-    $={\{x:x \notin (A \cap B)}\}$<br>
-    $={\{x:x \notin A~\, or~\, x \notin B}\}$ <br>
-    $={\{x:x \in \overline{A}~\, or~\, x \in \overline{B}}\}$<br>
-    $={\{x:x \in (\overline{A}  \cup \overline{B}})\}$
+    ${\lbrace x:x \in \overline{A \cap B}\rbrace }$ <br>
+    $={\lbrace x:x \notin (A \cap B)}\rbrace $<br>
+    $={\lbrace x:x \notin A~\, or~\, x \notin B}\rbrace $ <br>
+    $={\lbrace x:x \in \overline{A}~\, or~\, x \in \overline{B}}\rbrace $<br>
+    $={\lbrace x:x \in (\overline{A}  \cup \overline{B}})\rbrace $
 
 **Essentially, De Morgan's laws:**
 
