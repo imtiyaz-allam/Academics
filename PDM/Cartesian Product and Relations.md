@@ -89,7 +89,7 @@ __Example__:<br>
 A relation which is reflexive, antisymmetric and transitive.<br>
 __Example__:<br>
 > $A = \{1, 2, 4, 8\}$<br>
-> $R = \{(a, b) \in A \times A \,\,|\,\, a \,\, is \,\, divisor \,\, of \,\, b\}$<br>
+> $R = \{(a, b) \in A \times A | a is divisor of b}$<br>
 > $\implies R = \{(1, 1), (1, 2), (1, 4), (1, 8), (2, 2), (2, 4), (2, 8), (4, 4), (4, 8)\}$
 
 ### 7. Total-order Relation
