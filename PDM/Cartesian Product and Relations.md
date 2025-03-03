@@ -76,7 +76,7 @@ __Example__:<br>
 > $R = \lbrace (1, 2), (2, 3), (1, 3)\rbrace $
 
 __Q)__ <br>
-<img src="RelationQ1.png" width=300 height=300><br>
+<img src="img\RelationQ1.png" width=300 height=300><br>
 __Ans)__ $\lbrace (A,B), (B, A), (A, D), (D, A), (A, C), (C, A), (B, C), (C, B), (D, C), (C, D)\rbrace $
 
 ### 5. Equivalence Relation:

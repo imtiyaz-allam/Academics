@@ -41,7 +41,7 @@ In this example:
 * The codomain is $\lbrace A, B, C, D\rbrace $.
 * The range is $\lbrace D, C\rbrace $. Notice that $B$ and $A$ are in the codomain but not in the range because no element in the domain maps to them. Also notice that $a$ is in the range, even though it is the output of two domain inputs.
 <br>
-<img src="function.png">
+<img src="img\function.png">
 
 **Important Notes**
 
