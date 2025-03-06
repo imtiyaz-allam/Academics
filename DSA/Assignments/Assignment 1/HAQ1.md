@@ -38,4 +38,4 @@ public class ArithmeticChecker {
 ```
 Enter three integers (a, b, c): 1 2 3
 The integers can form the correct arithmetic formula 1 + 2 = 3
-``
+```
