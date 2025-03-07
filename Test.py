@@ -1,4 +1,4 @@
-def surjection_check(func, domain, codomain):
+def surjection_check(func:callable, domain:set, codomain:set):
     rng = set()
     for x in domain:
         rng.add(func(x))
