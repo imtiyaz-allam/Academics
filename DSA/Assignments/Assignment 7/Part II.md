@@ -28,7 +28,7 @@ import java.util.Scanner;
 public class QueueDemo2 { 
 
     public static Node insert(Node rear, Node front) { 
-        /* Code for inser method */
+        /* Code for insert method */
     } 
 
     /* Write the code for remaining user defined methods*/ 
